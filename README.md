@@ -1,2 +1,2 @@
 # Resource-Management
-Resource Management - Mini_project - 6
+Resource Management - Mini project - 6
